@@ -1,0 +1,26 @@
+# Core
+pandas==2.0.3
+numpy==1.24.3
+
+# Visualização
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Notebooks
+jupyter==1.0.0
+ipykernel==6.25.0
+
+# Utilitários
+python-dotenv==1.0.0
+tqdm==4.65.0
+pyyaml==6.0
+
+# Testes
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Formatação
+black==23.7.0
+flake8==6.0.0
+isort==5.12.0
