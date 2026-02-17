@@ -19,7 +19,7 @@ Este projeto simula um ambiente real de análise de dados em uma instituição f
 
 | Entregável | Descrição | Link |
 |------------|-----------|------|
-| 📊 Dashboard Power BI | Visualizações interativas de clientes e campanhas | [Abrir Dashboard](dashboard/dashboard.pbix) |
+| 📊 Dashboard Power BI | Visualizações interativas de clientes e campanhas | [Abrir Dashboard](dashboards/painel.pbix) |
 | 📁 Dados Sintéticos | Base de clientes (1.000+ registros) e campanhas | [Ver dados](dados/) |
 | 📈 Análises | Notebooks com insights e exploração de dados | [Ver análises](notebooks/) |
 | 📚 Documentação | Dicionário de dados e métricas de negócio | [Ver docs](docs/) |
